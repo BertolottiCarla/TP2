@@ -6,7 +6,7 @@
 
 #header
 {
-	background: #ccc;
+	background: brown;
 	padding: 20px;
 }
 
@@ -52,13 +52,12 @@
 	border-radius: 18px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
 	box-shadow: 0px 0px 6px #000000;
-	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
-	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
-	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
+	background-color: hotpink;
 	-webkit-background-clip: padding-box;
-	background-clip: padding-box;
+	background-color: padding-box;
 	opacity: 0.83;
-}
+    color: navajowhite;
+    background-color: chocolate;}
 
 #edito h2
 {
@@ -77,19 +76,18 @@
 	border-radius: 18px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
 	box-shadow: 0px 0px 6px #000000;
-	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
-	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
-	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
+	background-color: darkorange;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+    color:white;
 }
 
 #footer
 {
 	clear: both;
-	background: #ccc;
-	text-align: right;
+	background: brown;
+	text-align: center;
 	padding: 20px;
 	height: 1%;
 }
